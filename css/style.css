@@ -1,21 +1,23 @@
+/* -----header----- */
 header{width: 1280px;
         
         /* border:2px solid red; */
         margin:0 auto;
-        padding: 40px 66px 55px 44px;
+        padding: 40px 0 55px 0
     }
 
 header a img{ margin-right: 72px;
-            vertical-align: middle;}
+            vertical-align: middle;
+            margin-left: 44px;}
 nav{display: inline-block;}
 li{display: inline-block;
-        margin-right: 70px;
+        margin-right: 90px;
         vertical-align: middle;
         font-family: 'Noto Serif NP Hmong';
     }
 
 
-nav ul img{margin-left: 100px;}
+li img{margin-left: 66px;}
 
 
 /*---- section----- */
@@ -30,7 +32,6 @@ section img{margin-left: 95px;
 
 div{width: 307px;
     display: inline-block;
-        margin-left: 85px;
     vertical-align: top;}
 
 div h2{font-size: 40px;
@@ -49,20 +50,52 @@ article{width: 1280px;
             margin:0 auto;
             text-align: center;}
 
-article h2{ font-size:40px;
+ article h2{ font-size:40px;
     font-family: 'Noto Serif NP Hmong';
         color: #36413e;
         font-style: italic;
         font-weight: 300;
         margin-bottom: 72px;
-        /* text-align: center;  */
     }
 
-article p{font-size:20px;
+ article p{font-size:20px;
     font-family: 'Noto Serif NP Hmong';
         color: #7f7f7f;
         font-style: italic;
         font-weight: 100;
-        /* text-align: center; */
         width: 959px;}
+
+/* -----footer------ */
+
+footer{width: 1280px;
+        background-color: #306b34;
+        margin:0 auto;
+        padding: 25px 0  23px;
+        }
+
+footer p {display: inline-block;
+            margin-left: 74px;
+            margin-right: 350px;
+            }
+
+.p1{
+    margin-left: 74px;
+    margin-right: 380px;
+    font-size: 20px;
+    font-weight: 300;
+    color: #f4f4f1;
+    font-family: 'Noto Serif NP Hmong';
+    vertical-align: middle;
+    }
+
+.p2{ 
+    /* margin-right: 102px; */
+    font-size: 12px;
+    font-weight: 100;
+    color: #f4f4f1;
+    font-family: 'Noto Serif NP Hmong';
+    vertical-align: middle;
+    }
+
+
             
