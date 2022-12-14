@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Noto Serif NP Hmong';
+    src: url('../fonts/NotoSerifNPHmong-Regular.eot');
+    src: url('../fonts/NotoSerifNPHmong-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/NotoSerifNPHmong-Regular.woff2') format('woff2'),
+        url('../fonts/NotoSerifNPHmong-Regular.woff') format('woff'),
+        url('../fonts/NotoSerifNPHmong-Regular.ttf') format('truetype'),
+        url('../fonts/NotoSerifNPHmong-Regular.svg#NotoSerifNPHmong-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
