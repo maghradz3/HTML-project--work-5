@@ -1,8 +1,9 @@
 header{width: 1280px;
         
-        border:2px solid red;
+        /* border:2px solid red; */
         margin:0 auto;
-        padding: 40px 66px 55px 44px;}
+        padding: 40px 66px 55px 44px;
+    }
 
 header a img{ margin-right: 72px;
             vertical-align: middle;}
@@ -13,4 +14,27 @@ li{display: inline-block;
 
 
 nav ul img{margin-left: 100px;}
+
+
+/*---- section----- */
+
+section{width: 1280px;
+        background-color:#306b34;
+        margin: 0 auto;
+        padding: 174px 110px 152px 95px;}
+
+div{width: 307px;
+    display: inline-block;
+        margin-left: 85px;
+    vertical-align: top;}
+
+div h2{font-size: 40px;
+        font-weight: 300;
+        color:#19381f ;}
+div p{ font-size: 20px;
+        font-weight: 300;
+        color:#f4f4f1 ;
+        margin-top: 59px;}
+
+
             
