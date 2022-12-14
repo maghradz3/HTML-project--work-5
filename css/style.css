@@ -1,4 +1,16 @@
-p{
-    font-family: 'Noto Serif NP Hmong';
-    font-size: 20px;
-}
+header{width: 1280px;
+        
+        border:2px solid red;
+        margin:0 auto;
+        padding: 40px 66px 55px 44px;}
+
+header a img{ margin-right: 72px;
+            vertical-align: middle;}
+nav{display: inline-block;}
+li{display: inline-block;
+        margin-right: 70px;
+        vertical-align: middle;}
+
+
+nav ul img{margin-left: 100px;}
+            
