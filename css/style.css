@@ -3,22 +3,26 @@ header{width: 1280px;
         
         /* border:2px solid red; */
         margin:0 auto;
-        padding: 40px 0 55px 0
+        padding: 40px 0 55px 44px
     }
 
-header a img{ margin-right: 72px;
+header a img{ margin-right: 65px;
             vertical-align: middle;
-            margin-left: 44px;}
+            /* margin-left: 44px; */
+        }
 nav{display: inline-block;}
 li{display: inline-block;
         margin-right: 90px;
         vertical-align: middle;
         font-family: 'Noto Serif NP Hmong';
         font-weight: 300;
+        color: #7f7f7f;
+        font-size: 18px;
     }
 
 
-li img{margin-left: 66px;}
+li img{margin-left: 50px;
+    column-rule-color: #7f7f7f;}
 
 
 /*---- section----- */
@@ -73,31 +77,27 @@ article{width: 1280px;
 footer{width: 1280px;
         background-color: #306b34;
         margin:0 auto;
-        padding: 25px 0  23px;
+        padding: 25px 110px  23px 75px;
         }
 
-footer p {display: inline-block;
-            margin-left: 74px;
-            margin-right: 350px;
-            }
 
 .p1{
-    margin-left: 74px;
-    margin-right: 380px;
+    margin-right: 699px;
     font-size: 20px;
     font-weight: 300;
     color: #f4f4f1;
     font-family: 'Noto Serif NP Hmong';
     vertical-align: middle;
+    display: inline-block;
     }
 
 .p2{ 
-    /* margin-right: 102px; */
     font-size: 12px;
     font-weight: 100;
     color: #f4f4f1;
     font-family: 'Noto Serif NP Hmong';
     vertical-align: middle;
+    display: inline-block;
     }
 
 
