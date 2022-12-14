@@ -14,6 +14,7 @@ li{display: inline-block;
         margin-right: 90px;
         vertical-align: middle;
         font-family: 'Noto Serif NP Hmong';
+        font-weight: 300;
     }
 
 
@@ -44,6 +45,8 @@ div p{ font-size: 20px;
         margin-top: 59px;
         font-family: 'Noto Serif NP Hmong';
         font-style: italic;}
+
+ /*------article----- */
 
 article{width: 1280px;
         padding:88px 137px 150px 184px;
