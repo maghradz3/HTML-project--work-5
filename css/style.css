@@ -10,7 +10,9 @@ header a img{ margin-right: 72px;
 nav{display: inline-block;}
 li{display: inline-block;
         margin-right: 70px;
-        vertical-align: middle;}
+        vertical-align: middle;
+        font-family: 'Noto Serif NP Hmong';
+    }
 
 
 nav ul img{margin-left: 100px;}
@@ -21,7 +23,10 @@ nav ul img{margin-left: 100px;}
 section{width: 1280px;
         background-color:#306b34;
         margin: 0 auto;
-        padding: 174px 110px 152px 95px;}
+        padding: 174px 0 152px 0}
+
+section img{margin-left: 95px;
+            margin-right: 89px;}
 
 div{width: 307px;
     display: inline-block;
@@ -30,11 +35,34 @@ div{width: 307px;
 
 div h2{font-size: 40px;
         font-weight: 300;
-        color:#19381f ;}
+        color:#19381f ;
+        font-family: 'Noto Serif NP Hmong';}
 div p{ font-size: 20px;
         font-weight: 300;
         color:#f4f4f1 ;
-        margin-top: 59px;}
+        margin-top: 59px;
+        font-family: 'Noto Serif NP Hmong';
+        font-style: italic;}
 
+article{width: 1280px;
+        padding:88px 137px 150px 184px;
+            margin:0 auto;
+            text-align: center;}
 
+article h2{ font-size:40px;
+    font-family: 'Noto Serif NP Hmong';
+        color: #36413e;
+        font-style: italic;
+        font-weight: 300;
+        margin-bottom: 72px;
+        /* text-align: center;  */
+    }
+
+article p{font-size:20px;
+    font-family: 'Noto Serif NP Hmong';
+        color: #7f7f7f;
+        font-style: italic;
+        font-weight: 100;
+        /* text-align: center; */
+        width: 959px;}
             
